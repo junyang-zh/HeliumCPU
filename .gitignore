@@ -1,0 +1,8 @@
+# Verilator generated files
+obj_dir/
+
+# Vivado files
+src/Vivado/Vivado.cache/
+src/Vivado/Vivado.hw/
+src/Vivado/Vivado.runs/
+src/Vivado/Vivado.sim/
